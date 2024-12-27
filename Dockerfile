@@ -1,10 +1,12 @@
 FROM golang:1.19
 
 WORKDIR /app
-
-RUN go mod init teste
-
+ 
 COPY . .
+
+RUN go mod init maioridade-app 
+
+RUN go mod tidy 
 
 RUN go build -o main
 
