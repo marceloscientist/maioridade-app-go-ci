@@ -1,10 +1,14 @@
 mode: set
-maioridade-app/funcoes.go:11.32,18.16 6 1
-maioridade-app/funcoes.go:18.16,20.3 1 1
-maioridade-app/funcoes.go:21.2,21.19 1 1
-maioridade-app/funcoes.go:25.37,27.2 1 1
-maioridade-app/main.go:5.13,7.16 2 0
-maioridade-app/main.go:7.16,10.3 2 0
-maioridade-app/main.go:12.2,12.27 1 0
-maioridade-app/main.go:12.27,14.3 1 0
-maioridade-app/main.go:14.8,16.3 1 0
+maioridade-app/main.go:13.13,15.38 1 0
+maioridade-app/main.go:15.38,18.3 2 0
+maioridade-app/main.go:19.2,19.26 1 0
+maioridade-app/main.go:22.45,24.16 2 1
+maioridade-app/main.go:24.16,27.3 2 1
+maioridade-app/main.go:29.2,29.27 1 1
+maioridade-app/main.go:29.27,31.3 1 1
+maioridade-app/main.go:31.8,33.3 1 1
+maioridade-app/main.go:36.47,43.16 6 1
+maioridade-app/main.go:43.16,45.3 1 1
+maioridade-app/main.go:46.2,46.19 1 1
+maioridade-app/main.go:49.37,51.2 1 1
+maioridade-app/main.go:53.40,55.2 1 1
