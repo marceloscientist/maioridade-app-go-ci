@@ -1,31 +1,17 @@
 package main
 
-import (
-	"bufio"
-	"fmt"
-	"os"
-	"strconv"
-)
+import "fmt"
 
 func main() {
-	fmt.Println("Qual a sua idade?")
-	scanner := bufio.NewScanner(os.Stdin)
-	scanner.Scan()
-	idadeStr := scanner.Text()
-
-	idade, err := strconv.Atoi(idadeStr)
+	idade, err := obterIdade()
 	if err != nil {
-		fmt.Println("Erro: Digite um número válido.")
+		fmt.Println("Erro:", err)
 		return
 	}
 
 	if ehMaiorDeIdade(idade) {
-		fmt.Println("Você é maior de idade")
+		fmt.Println("Você é maior de idade.")
 	} else {
 		fmt.Println("Você é menor de idade.")
 	}
-}
-
-func ehMaiorDeIdade(idade int) bool {
-	return idade >= 18
 }

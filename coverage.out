@@ -1,0 +1,10 @@
+mode: set
+maioridade-app/funcoes.go:11.32,18.16 6 1
+maioridade-app/funcoes.go:18.16,20.3 1 1
+maioridade-app/funcoes.go:21.2,21.19 1 1
+maioridade-app/funcoes.go:25.37,27.2 1 1
+maioridade-app/main.go:5.13,7.16 2 0
+maioridade-app/main.go:7.16,10.3 2 0
+maioridade-app/main.go:12.2,12.27 1 0
+maioridade-app/main.go:12.27,14.3 1 0
+maioridade-app/main.go:14.8,16.3 1 0
