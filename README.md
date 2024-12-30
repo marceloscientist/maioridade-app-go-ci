@@ -103,7 +103,7 @@ O **Maioridade App** é uma aplicação simples desenvolvida em Go que verifica 
 
 ### GitHub Actions
 
-O arquivo [maioridade-app-go-ci.yml](.github/workflows/maioridade-app-go-ci.yml) define o pipeline completo.
+O arquivo [maioridade-app-go-ci.yml](https://github.com/marceloscientist/maioridade-app-go-ci/blob/develop/.github/workflows/ci.yml) define o pipeline completo.
 
 ---
 
@@ -147,4 +147,4 @@ docker run -it marceloscientist1983/maioridade-app-go-ci
 ## 📌 Autor
 
 Desenvolvido por **Marcelo Scientist** 👨‍💻  
-[GitHub](https://github.com/marceloscientist) | [LinkedIn](https://linkedin.com/in/marceloscientist)
+[Email](https://github.com/marceloscientist) | [LinkedIn](https://linkedin.com/in/marcelo-carvalho-developer/)
